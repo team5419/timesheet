@@ -2,7 +2,7 @@ module Constants
   TIMEZONE = 'Pacific Time (US & Canada)'
   DAY_END = 1
   BUILD_MEETINGS = 2
-  PRE_MEETINGS = 1
+  PRE_MEETINGS = 2
   PRE_HOURS = 25
   DEFAULT_LOGIN = "signup@team5419.org"
   TEAM_NAME = 'Natural Disasters'
