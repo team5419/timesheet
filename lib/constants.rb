@@ -7,7 +7,7 @@ module Constants
   DEFAULT_LOGIN = "signup@team5419.org"
   TEAM_NAME = 'Natural Disasters'
   TEAM_NUMBER = '5419'
-  SCHOOL_NAME_REPLACEMENT = 'Grade'
+  SCHOOL_NAME_REPLACEMENT = 'Team'
   GENDERS = ['Male', 'Female', 'Other']
   FRESHMAN_HOURS = 4
   SOPHOMORE_HOURS = 4
