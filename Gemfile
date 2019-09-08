@@ -65,3 +65,5 @@ gem 'jquery-datatables-rails', '~> 3.4.0'
 
 # To use debugger
 # gem 'debugger'
+
+gem "thin", "~> 1.7"
