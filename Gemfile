@@ -6,7 +6,7 @@ gem 'rails'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 #group :development do
-#	gem 'sqlite3'
+gem 'sqlite3'
 #end
 #group :production do
 #	gem 'pg'
@@ -47,9 +47,9 @@ gem 'jquery-timepicker-addon-rails'
 gem 'kaminari'
 gem 'ransack' #filtering/pagination
 
- gem 'rails_12factor'
+gem 'rails_12factor'
 
- gem 'jquery-datatables-rails', '~> 3.4.0'
+gem 'jquery-datatables-rails', '~> 3.4.0'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
