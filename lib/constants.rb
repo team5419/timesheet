@@ -5,7 +5,7 @@ module Constants
   PRE_MEETINGS = 2
   PRE_HOURS = 25
   DEFAULT_LOGIN = "signup@team5419.org"
-  TEAM_NAME = 'Natural Disasters'
+  TEAM_NAME = 'Berkelium'
   TEAM_NUMBER = '5419'
   SCHOOL_NAME_REPLACEMENT = 'Team'
   GENDERS = ['Male', 'Female', 'Other']
